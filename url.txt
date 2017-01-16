@@ -1,0 +1,1 @@
+http://lightson.dip.jp/zope/ZWiki/PythonRecipe
